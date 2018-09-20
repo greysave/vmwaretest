@@ -1,0 +1,1 @@
+This readme file is intended to guide users on how to use the VMware as-built scripts that we are customizing ot suite our needs./nWe are going to customize the as-built documentation that has been created using Pscribo and VMware's git
